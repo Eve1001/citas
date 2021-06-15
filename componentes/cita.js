@@ -3,6 +3,7 @@ import { Text, StyleSheet, View, TouchableHighlight }  from 'react-native';
 
 const Cita = ({item, eliminarPaciente}) => {
     // Prueba git
+    // Version 2
     const dialogoEliminar = id  => {
 
         console.log('eliminando', id);
